@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn Strategy Slide Deck",
+  "description": "An interactive React slide deck framework with Firebase CMS integration, PDF generation, and Google Auth.",
+  "requestFramePermissions": []
+}
